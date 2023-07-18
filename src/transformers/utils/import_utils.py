@@ -450,7 +450,7 @@ def is_sacremoses_available():
 
 
 def is_apex_available():
-    return _apex_available
+    return False #  _apex_available
 
 
 def is_ninja_available():
